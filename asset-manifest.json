@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etf-analyzer/static/css/main.832fa500.css",
+    "main.js": "/etf-analyzer/static/js/main.82886d87.js",
+    "index.html": "/etf-analyzer/index.html",
+    "main.832fa500.css.map": "/etf-analyzer/static/css/main.832fa500.css.map",
+    "main.82886d87.js.map": "/etf-analyzer/static/js/main.82886d87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832fa500.css",
+    "static/js/main.82886d87.js"
+  ]
+}
